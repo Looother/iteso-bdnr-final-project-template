@@ -1,0 +1,1 @@
+"""EXTRA: Configuración y conexión a la base de datos ChromaDB."""

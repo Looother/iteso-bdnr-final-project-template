@@ -1,0 +1,5 @@
+# Dependencias del proyecto
+# cassandra-driver
+# pymongo
+# pydgraph
+# chromadb
