@@ -16,7 +16,7 @@ Plantilla (template) para el proyecto final de la materia de **Bases de Datos No
 
 ## Descripción del Proyecto
 
-
+Descripción general del proyecto, expresado en 2 párrafos.
 ---
 
 ## Flujo de Trabajo (Workflow - Draft Inicial)
