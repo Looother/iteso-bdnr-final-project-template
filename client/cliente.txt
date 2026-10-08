@@ -1,0 +1,4 @@
+Cliente único de la aplicación (interfaz por consola CLI, página web, app de escritorio, etc.).
+
+Este puede estar escrito en cualquier lenguaje de programación, sólo debe ser capaz de ejecutar las consultas definidas en
+los requerimientos del proyecto.

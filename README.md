@@ -2,6 +2,44 @@
 
 Plantilla (template) para el proyecto final de la materia de **Bases de Datos No Relacionales (BDNR)** en ITESO.
 
+---
+
+## Integrantes del Equipo
+
+| Nombre | Expediente |
+| :--- | :--- |
+| *Nombre Completo 1* | *XXXXXX* |
+| *Nombre Completo 2* | *XXXXXX* |
+| *Nombre Completo 3* | *XXXXXX* |
+
+---
+
+## Descripción del Proyecto
+
+
+---
+
+## Flujo de Trabajo (Workflow - Draft Inicial)
+
+
+
+1. **Inserción / Carga de Datos:**
+   <!-- Explicar qué scripts o comandos se corren para poblar las bases de datos (ej. python data/seeders/seed.py) -->
+   - *Comando / Script:* 
+   - *Detalles:* 
+
+2. **Ejecución del Servidor / Backend:**
+   <!-- Explicar cómo se levanta la API o los servicios de bases de datos -->
+   - *Comando:* 
+   - *Detalles:* 
+
+3. **Ejecución de Consultas y Cliente:**
+   <!-- Explicar cómo se van a correr las consultas (vía CLI, frontend, Postman, etc.) -->
+   - *Comando / Interfaz:* 
+   - *Detalles:* 
+
+---
+
 ## Estructura del Repositorio
 
 ```text
